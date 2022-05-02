@@ -1,1 +1,3 @@
 Hello, World!
+
+**editing to test VS Code as default commit message editor"
